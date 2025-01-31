@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#
+# e.g. perl text_typo_stego_encode.pl ./A_Tale_of_Two_Cities.txt > encoded.txt
 
 use v5.16;
 use utf8;
